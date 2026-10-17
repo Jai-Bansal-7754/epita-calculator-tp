@@ -2,7 +2,7 @@
 CONTRIBUTORS = ["Rohitha Narra"]  # Conflicts generator 1
 
 def add(a, b):
-    pass
+    return a + b
 
 def subtract(a, b):
     pass
