@@ -19,3 +19,4 @@ if __name__ == "__main__":
     print(f"Welcome to the Group Calculator!, written by {CONTRIBUTORS}")
     print(subtract(3-2))  # Conflicts generator 2
     print(multiply(4, 5))  # Conflicts generator 2
+    print(add(2,2)) # Conflicts generator 2
